@@ -1,0 +1,31 @@
+..\Output\i2c (1).o: ..\BSP\IIC\I2C (1).c
+..\Output\i2c (1).o: ..\CMSIS\stm32f10x.h
+..\Output\i2c (1).o: ..\CMSIS\core_cm3.h
+..\Output\i2c (1).o: D:\keill for ARM\ARM\RV31\Inc\stdint.h
+..\Output\i2c (1).o: ..\CMSIS\system_stm32f10x.h
+..\Output\i2c (1).o: ..\USER\stm32f10x_conf.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_adc.h
+..\Output\i2c (1).o: ..\CMSIS\stm32f10x.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_bkp.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_can.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_cec.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_crc.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_dac.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_dbgmcu.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_dma.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_flash.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_fsmc.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_i2c.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_iwdg.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_pwr.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_rtc.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_sdio.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\i2c (1).o: ..\FWlib\inc\stm32f10x_wwdg.h
+..\Output\i2c (1).o: ..\FWlib\inc\misc.h
+..\Output\i2c (1).o: ..\BSP\IIC\I2C.h
